@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FocusTrack</string>
+    <string name="defaultViewTime">60:00</string>
+    <string name="total">Total : 0</string>
+    <string name="distraction">Ignore : 0</string>
+    <string name="completed">Completed : 0</string>
+    <string name="start">START</string>
+    <string name="task_completed">taskCompleted</string>
+    <string name="focused_mode">focusedMode</string>
+</resources>
